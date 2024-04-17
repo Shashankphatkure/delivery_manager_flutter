@@ -1,0 +1,1 @@
+ build\\web\\favicon.png build\\web\\icons\\Icon-192.png build\\web\\icons\\Icon-512.png build\\web\\index.html:  D:\\flutterdev\\delivery_manager\\web\\favicon.png D:\\flutterdev\\delivery_manager\\web\\icons\\Icon-192.png D:\\flutterdev\\delivery_manager\\web\\icons\\Icon-512.png D:\\flutterdev\\delivery_manager\\web\\index.html
